@@ -8,5 +8,3 @@ Para replicar el análisis, descarga los siguientes archivos y colócalos en est
    * Descarga desde Harvard Dataverse (Erik Voeten): https://doi.org/10.7910/DVN/LEJUQZ
 2. **`sc_votos.csv`**: Votos del Consejo de Seguridad.
    * Descarga desde UN Digital Library: https://digitallibrary.un.org
-3. **`sc_vetos.csv`**: Registro histórico de vetos en el Consejo de Seguridad.
-4. **`sc_miembros.csv`**: Composición histórica de los miembros del Consejo de Seguridad.
