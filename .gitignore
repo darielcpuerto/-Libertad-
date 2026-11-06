@@ -1,0 +1,9 @@
+# Ignorar todos los archivos CSV grandes para no subirlos a Github
+raw/*.csv
+data/processed/*.csv
+data/raw/*.csv
+*.parquet
+*.json
+__pycache__/
+*.pyc
+.env
